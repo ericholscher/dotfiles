@@ -1,0 +1,23 @@
+[user]
+	name = Eric Holscher
+	email = eric@ericholscher.com
+
+[color]
+        diff = auto
+        status = auto
+        branch = auto
+
+[alias]
+        st = status
+        b = branch
+        ci = commit -av
+        co = checkout
+
+[pager]
+    color = true 
+
+[status]
+    color = auto
+
+[diff]
+	renamelimit = 0
